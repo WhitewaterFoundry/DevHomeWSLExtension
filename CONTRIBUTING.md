@@ -1,4 +1,4 @@
-# Dev Home Contributor's Guide
+# Dev Home WSL Extension Contributor's Guide
 
 Below is our guidance for how to report issues, propose new features, and submit contributions via pull requests (PRs).
 
